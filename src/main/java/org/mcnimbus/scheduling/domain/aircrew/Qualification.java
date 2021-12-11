@@ -7,9 +7,9 @@ public enum Qualification {
   I("I"),
   E("E");
 
-  private String qulification;
+  private String qualification;
 
-  Qualification(String qulification) {
-    this.qulification = qulification;
+  Qualification(String qualification) {
+    this.qualification = qualification;
   }
 }
